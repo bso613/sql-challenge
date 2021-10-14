@@ -140,3 +140,6 @@ ORDER BY "Frequency Counts" DESC;
 SELECT last_name as "Last Name", first_name as "First Name"
 FROM employees
 WHERE emp_no = '499942';
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+----- Code credits to 'Nazzy88' from github.com and 'amitmals' from github.com ------
